@@ -1,0 +1,25 @@
+body
+{
+text-align: center;
+}
+
+h2
+{
+    font-family: 'Shantell Sans', cursive;
+    color: chocolate;
+}
+
+#Apps
+{
+background:linear-gradient(lightblue,lightgreen);
+}
+
+#Games
+{
+    background:linear-gradient(pink,lightgrey);
+}
+
+#ChatBot
+{
+    background:linear-gradient(lightgreen,yellow);
+}
